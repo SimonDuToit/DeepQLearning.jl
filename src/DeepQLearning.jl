@@ -5,6 +5,7 @@ using StatsBase
 using Printf
 using Parameters
 using Flux
+using Flux: params
 using BSON
 using POMDPTools
 using POMDPLinter
